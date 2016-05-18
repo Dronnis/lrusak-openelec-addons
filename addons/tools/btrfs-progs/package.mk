@@ -18,7 +18,7 @@
 
 PKG_NAME="btrfs-progs"
 PKG_VERSION="4.5.3"
-PKG_REV="1"
+PKG_REV="0"
 PKG_ARCH="any"
 PKG_ADDON_PROJECTS="Generic RPi RPi2"
 PKG_LICENSE="GPL"
@@ -34,7 +34,7 @@ PKG_AUTORECONF="no"
 PKG_IS_ADDON="yes"
 PKG_ADDON_TYPE="xbmc.python.script"
 PKG_ADDON_PROVIDES=""
-PKG_ADDON_REPOVERSION="7.0"
+PKG_ADDON_REPOVERSION="8.0"
 
 PKG_SECTION="tools"
 PKG_MAINTAINER="Lukas Rusak (lorusak@gmail.com)"
