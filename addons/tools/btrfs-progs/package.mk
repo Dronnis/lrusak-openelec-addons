@@ -17,13 +17,13 @@
 ################################################################################
 
 PKG_NAME="btrfs-progs"
-PKG_VERSION="4.3"
-PKG_REV="0"
+PKG_VERSION="4.5.3"
+PKG_REV="1"
 PKG_ARCH="any"
 PKG_ADDON_PROJECTS="Generic RPi RPi2"
 PKG_LICENSE="GPL"
 PKG_SITE="https://btrfs.wiki.kernel.org/index.php/Main_Page"
-PKG_URL="$DISTRO_SRC/$PKG_NAME-$PKG_VERSION.tar.xz"
+PKG_URL="https://github.com/kdave/btrfs-progs/archive/v$PKG_VERSION.tar.gz"
 PKG_DEPENDS_TARGET="toolchain util-linux zlib lzo"
 PKG_PRIORITY="optional"
 PKG_SECTION="tools"
