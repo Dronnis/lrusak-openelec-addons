@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.lrusak.openelec.addons"
-                name="lrusak's [COLOR FF757677]Open[/COLOR][COLOR FF8ABEE2]ELEC[/COLOR] (@PROJECT@/@ARCH@) Add-ons"
+                name="lrusak's LibreELEC (@PROJECT@/@ARCH@) Add-ons"
                 version="@PKG_VERSION@.@PKG_REV@"
                 provider-name="Lukas Rusak (lorusak@gmail.com)">
         <extension point="xbmc.addon.repository"
-                name="lrusak's OpenELEC.tv Add-on Repository">
+                name="lrusak's LibreELEC.tv Add-on Repository">
                 <dir minversion="15.0.0">
                     <info>https://addons.freestylephenoms.com/6.0/@PROJECT@/@ARCH@/addons.xml</info>
                     <checksum>https://addons.freestylephenoms.com/6.0/@PROJECT@/@ARCH@/addons.xml.md5</checksum>
@@ -17,7 +17,7 @@
                 </dir>
         </extension>
         <extension point="xbmc.addon.metadata">
-                <summary>lrusak's addon repository for OpenELEC</summary>
+                <summary>lrusak's addon repository for LibreELEC</summary>
                 <description>
 [COLOR red]=== BIG FAT WARNING ===[/COLOR]
 Use this repository at your own risk.
