@@ -18,7 +18,7 @@
 
 PKG_NAME="openvpn"
 PKG_VERSION="6c2d790"
-PKG_REV="1"
+PKG_REV="0"
 PKG_ARCH="any"
 PKG_LICENSE="GPL"
 PKG_SITE="http://openvpn.net"
@@ -35,7 +35,7 @@ PKG_IS_ADDON="yes"
 PKG_ADDON_NAME="OpenVPN"
 PKG_ADDON_TYPE="xbmc.service"
 PKG_ADDON_PROVIDES=""
-PKG_ADDON_REPOVERSION="7.0"
+PKG_ADDON_REPOVERSION="8.0"
 PKG_DISCLAIMER="This is an unofficial addon. Please don't ask for support in openelec forum / irc channel"
 
 PKG_MAINTAINER="Lukas Rusak (lorusak@gmail.com)"
