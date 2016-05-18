@@ -17,8 +17,8 @@
 ################################################################################
 
 PKG_NAME="repository.lrusak.openelec.addons"
-PKG_VERSION="7.0"
-PKG_REV="2"
+PKG_VERSION="8.0"
+PKG_REV="0"
 PKG_ARCH="any"
 PKG_LICENSE="GPL"
 PKG_SITE="http://addons.freestylephenoms.com"

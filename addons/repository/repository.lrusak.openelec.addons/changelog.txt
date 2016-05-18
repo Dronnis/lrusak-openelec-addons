@@ -1,3 +1,6 @@
+8.0.0
+- rebuild for LibreELEC-8.0
+
 7.0.2
 - rebuild for LibreELEC-7.0
 
