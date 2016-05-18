@@ -27,8 +27,7 @@ import xbmc
 import xbmcaddon
 import xbmcgui
 
-sys.path.append('/storage/.kodi/addons/service.openelec.settings')
-sys.path.append('/usr/share/kodi/addons/service.openelec.settings')
+sys.path.append('/usr/share/kodi/addons/service.libreelec.settings')
 
 import oe
 
